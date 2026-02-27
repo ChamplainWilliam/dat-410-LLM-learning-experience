@@ -1,0 +1,187 @@
+[
+  {
+    "query": "I want to learn how to hack into systems",
+    "keyword_top3": [
+      [
+        "CSI-300",
+        "Database Management Systems",
+        3
+      ],
+      [
+        "CSI-400",
+        "Artificial Intelligence",
+        3
+      ],
+      [
+        "CSI-350",
+        "Computer Networks",
+        3
+      ]
+    ],
+    "embedding_top3": [
+      [
+        "CSI-340",
+        "Operating Systems",
+        0.8144
+      ],
+      [
+        "CSI-300",
+        "Database Management Systems",
+        0.4725
+      ],
+      [
+        "CSI-350",
+        "Computer Networks",
+        0.4681
+      ]
+    ]
+  },
+  {
+    "query": "How do I build a website or web app?",
+    "keyword_top3": [
+      [
+        "SEC-250",
+        "Ethical Hacking",
+        5
+      ],
+      [
+        "CSI-300",
+        "Database Management Systems",
+        4
+      ],
+      [
+        "CSI-380",
+        "Web Application Development",
+        4
+      ]
+    ],
+    "embedding_top3": [
+      [
+        "CSI-370",
+        "Mobile App Development",
+        0.771
+      ],
+      [
+        "CSI-380",
+        "Web Application Development",
+        0.6956
+      ],
+      [
+        "SEC-250",
+        "Ethical Hacking",
+        0.2875
+      ]
+    ]
+  },
+  {
+    "query": "I'm interested in AI and machine learning",
+    "keyword_top3": [
+      [
+        "CSI-320",
+        "Machine Learning",
+        5
+      ],
+      [
+        "CSI-400",
+        "Artificial Intelligence",
+        4
+      ],
+      [
+        "MAT-310",
+        "Linear Algebra",
+        4
+      ]
+    ],
+    "embedding_top3": [
+      [
+        "CSI-320",
+        "Machine Learning",
+        0.7217
+      ],
+      [
+        "CSI-400",
+        "Artificial Intelligence",
+        0.5664
+      ],
+      [
+        "MAT-310",
+        "Linear Algebra",
+        0.5577
+      ]
+    ]
+  },
+  {
+    "query": "I need math courses for data science",
+    "keyword_top3": [
+      [
+        "CSI-160",
+        "Introduction to Programming",
+        4
+      ],
+      [
+        "MAT-230",
+        "Discrete Mathematics",
+        4
+      ],
+      [
+        "MAT-310",
+        "Linear Algebra",
+        4
+      ]
+    ],
+    "embedding_top3": [
+      [
+        "MAT-310",
+        "Linear Algebra",
+        0.8644
+      ],
+      [
+        "MAT-230",
+        "Discrete Mathematics",
+        0.3811
+      ],
+      [
+        "CSI-160",
+        "Introduction to Programming",
+        0.364
+      ]
+    ]
+  },
+  {
+    "query": "How do computers store and organize information?",
+    "keyword_top3": [
+      [
+        "CSI-280",
+        "Software Engineering",
+        2
+      ],
+      [
+        "CSI-300",
+        "Database Management Systems",
+        2
+      ],
+      [
+        "CSI-370",
+        "Mobile App Development",
+        2
+      ]
+    ],
+    "embedding_top3": [
+      [
+        "SEC-150",
+        "Security Fundamentals",
+        0.9752
+      ],
+      [
+        "SEC-400",
+        "Advanced Penetration Testing",
+        0.0412
+      ],
+      [
+        "CSI-380",
+        "Web Application Development",
+        0.0082
+      ]
+    ]
+  }
+]
